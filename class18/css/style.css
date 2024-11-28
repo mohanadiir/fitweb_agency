@@ -1,0 +1,57 @@
+
+
+/*================
+navber part start
+===============*/
+nav{
+    background-color: #1C1E53;
+    padding: 30px 0px !important;
+    
+    
+}
+.navbar-nav{
+    column-gap: 32px;
+    padding-right: 48px;
+}
+
+.nav-link{
+    color: #BBBBCB;
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    font-size: 16px;
+    transform: .4s;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+
+}
+.nav-link:hover{
+    color: white;
+}
+ 
+ .navber_button{
+    background-color:transparent;
+    text-decoration: none;
+    padding: 16px 46px;
+    border-radius: 40px;
+    color: white;
+    font-family: "Poppins", serif;
+    font-size: 16px;
+    border: 1px solid white;
+}
+/*=================
+  navber part end
+  ============== */
+  /*=================
+  banner part start 
+  ============== */
+  .banner{
+    background-color: #1C1E53;
+    padding: 200px 0px;
+  }
+  /*=================
+  banner part end
+  ============== */
+ 
+
+
+
